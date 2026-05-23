@@ -3,7 +3,7 @@
 > 選擇縣市與行政區，即時抓取真實餐廳資料，用**轉盤**幫你決定今天吃什麼！  
 > 純前端單頁應用，無需安裝，無需帳號，開啟即用。
 
-🌐 **線上版本**：[siseat.com](https://pages.github.ibm.com/yuchen-chang/siseat.com/restaurant_roulette.html)
+🌐 **線上版本**：[點我開啟](https://david07160716mg13-create.github.io/let_me_eat/restaurant_roulette.html)
 
 ---
 
