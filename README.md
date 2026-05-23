@@ -25,8 +25,8 @@
 
 ### 線上版（推薦）
 
-直接點擊開啟，不需任何安裝：  
-👉 [https://pages.github.ibm.com/yuchen-chang/siseat.com/restaurant_roulette.html](https://pages.github.ibm.com/yuchen-chang/siseat.com/restaurant_roulette.html)
+
+🌐 **線上版本**：[點我開啟](https://david07160716mg13-create.github.io/let_me_eat/restaurant_roulette.html)
 
 ### 本地執行
 
