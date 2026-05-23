@@ -3,7 +3,7 @@
 > 選擇縣市與行政區，即時抓取真實餐廳資料，用**轉盤**幫你決定今天吃什麼！  
 > 純前端單頁應用，無需安裝，無需帳號，開啟即用。
 
-🌐 **線上版本**：[點我開啟](https://david07160716mg13-create.github.io/let_me_eat/restaurant_roulette.html)
+🌐 **線上版本**：[點我開啟](https://david07160716mg13-create.github.io/let_me_eat/)
 
 ---
 
@@ -25,8 +25,8 @@
 
 ### 線上版（推薦）
 
-
-🌐 **線上版本**：[點我開啟](https://david07160716mg13-create.github.io/let_me_eat/restaurant_roulette.html)
+直接點擊開啟，不需任何安裝：  
+👉 [https://david07160716mg13-create.github.io/let_me_eat/](https://david07160716mg13-create.github.io/let_me_eat/)
 
 ### 本地執行
 
@@ -36,7 +36,7 @@
    cd let_me_eat
    ```
 
-2. 直接用瀏覽器開啟 `restaurant_roulette.html`（雙擊即可）
+2. 直接用瀏覽器開啟 `index.html`（雙擊即可）
 
 > ✅ 無需安裝任何套件或執行伺服器，直接開啟 HTML 檔案即可使用。
 
@@ -55,7 +55,7 @@
 ## 🏗️ 技術架構
 
 ```
-restaurant_roulette.html   ← 單一 HTML 檔案，包含所有邏輯與樣式
+index.html   ← 單一 HTML 檔案，包含所有邏輯與樣式
 ```
 
 | 技術 | 用途 |
